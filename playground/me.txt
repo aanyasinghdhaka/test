@@ -1,0 +1,5 @@
+{{#user}}
+Name: AANYA SINGH DHAKA
+Skills: HTML, CSS, JS, Next.js
+Email: dhakaanya10@gmail.com
+{{/user}}
